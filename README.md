@@ -1,4 +1,4 @@
-# Hashify 🔐
+# Hashify
 
 **📋 Description**
 
