@@ -32,5 +32,4 @@ Go to [Releases](https://github.com/NotMathew/Hashify/releases) and download the
 ```bash
 git clone https://github.com/NotMathew/Hashify.git
 cd Hashify
-chmod +x Hashify.py
-./Hashify.py
+python Hashify.py
