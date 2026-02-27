@@ -26,10 +26,13 @@ An interactive, terminal-based Python utility designed to quickly and efficientl
 None! Hashify is built entirely using Python's standard library.
 
 ## Installation on Windows 10/11
-Go to [Releases](https://github.com/NotMathew/Hashify/releases) and download the latest version, or run the script directly via Python.
+```
+cd Downloads && curl -O https://raw.githubusercontent.com/NotMathew/Hashify/refs/heads/main/Hashify.py && python Hashify.py
+```
 
 ## Installation on Linux & macOS
 ```bash
 git clone https://github.com/NotMathew/Hashify.git
 cd Hashify
 python Hashify.py
+```
