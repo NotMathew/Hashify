@@ -30,7 +30,7 @@ Go to [Releases](https://github.com/NotMathew/Hashify/releases) and download the
 
 ## Installation on Linux & macOS
 ```bash
-git clone [https://github.com/NotMathew/Hashify.git](https://github.com/NotMathew/Hashify.git)
+git clone https://github.com/NotMathew/Hashify.git
 cd Hashify
 chmod +x Hashify.py
 ./Hashify.py
